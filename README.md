@@ -1,8 +1,6 @@
-Here is the complete, highly designed `README.md` file in **one single code block**.
-```markdown
 <div align="center">
   
-  
+  <img src="https://via.placeholder.com/800x200/000000/FFFFFF/?text=PhishDetect+Pro+Banner" alt="PhishDetect Pro Banner">
 
   <h1>🛡️ PhishDetect Pro</h1>
   
