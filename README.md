@@ -56,7 +56,7 @@ Evaluated on a strictly balanced, isolated test set (80/20 split) avoiding data 
 ### 1. Backend Setup (Django API & Dashboard)
 ```bash
 # Clone the repository
-git clone [https://github.com/Sayeedh784/Phishing-Detection.git](https://github.com/Sayeedh784/Phishing-Detection.git)
+git clone https://github.com/Sayeedh784/Phishing-Detection.git
 cd PhishDetect-Pro/backend
 
 # Create a virtual environment
