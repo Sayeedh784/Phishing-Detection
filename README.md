@@ -66,7 +66,7 @@
 ### 📊 2. Admin Web Dashboard
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300/e0e0e0/000000/?text=Drop+Legitimate+URL+Dashboard+Image+Here" alt="Legitimate URL Dashboard" width="48%">
+  <img src="asstes/phishing url check.png" width="48%">
   <img src="https://via.placeholder.com/600x300/e0e0e0/000000/?text=Drop+Phishing+URL+Dashboard+Image+Here" alt="Phishing URL Dashboard" width="48%">
 </div>
 <div align="center">
