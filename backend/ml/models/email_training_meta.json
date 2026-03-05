@@ -1,0 +1,6 @@
+{
+  "samples_total": 58460,
+  "vectorizer": "FeatureUnion(word+char)",
+  "model": "LogisticRegression(saga,C=2.0)",
+  "threshold": 0.5
+}
