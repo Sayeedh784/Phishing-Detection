@@ -1,6 +1,4 @@
 <div align="center">
-  
-  <img src="https://via.placeholder.com/800x200/000000/FFFFFF/?text=PhishDetect+Pro+Banner" alt="PhishDetect Pro Banner">
 
   <h1>🛡️ PhishDetect Pro</h1>
   
@@ -46,35 +44,7 @@
 2. **Feature Engineering:** Extracts structural metrics (length, IP presence) and semantic vectors (character/word-level TF-IDF).
 3. **Ensemble Fusion:** A weighted algebraic scoring system synthesizes the probabilities into a final verdict.
 
----
 
-## 📸 Visual Gallery (Deployment)
-
-> **💡 How to add your images here:** Edit this README in GitHub, drag and drop your actual screenshots over the `src="..."` placeholder links below!
-
-### 🛡️ 1. Chrome Extension (Real-Time Protection)
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x300/e0e0e0/000000/?text=Drop+Legitimate+URL+Extension+Image+Here" alt="Legitimate URL Extension" width="48%">
-  <img src="https://via.placeholder.com/600x300/e0e0e0/000000/?text=Drop+Phishing+URL+Extension+Image+Here" alt="Phishing URL Extension" width="48%">
-</div>
-<div align="center">
-  <img src="https://via.placeholder.com/600x300/e0e0e0/000000/?text=Drop+Legitimate+Email+Extension+Image+Here" alt="Legitimate Email Extension" width="48%">
-  <img src="https://via.placeholder.com/600x300/e0e0e0/000000/?text=Drop+Phishing+Email+Extension+Image+Here" alt="Phishing Email Extension" width="48%">
-</div>
-
-### 📊 2. Admin Web Dashboard
-
-<div align="center">
-  <img src="asstes/phishing url check.png" width="48%">
-  <img src="https://via.placeholder.com/600x300/e0e0e0/000000/?text=Drop+Phishing+URL+Dashboard+Image+Here" alt="Phishing URL Dashboard" width="48%">
-</div>
-<div align="center">
-  <img src="https://via.placeholder.com/600x300/e0e0e0/000000/?text=Drop+Legitimate+Email+Dashboard+Image+Here" alt="Legitimate Email Dashboard" width="48%">
-  <img src="https://via.placeholder.com/600x300/e0e0e0/000000/?text=Drop+Phishing+Email+Dashboard+Image+Here" alt="Phishing Email Dashboard" width="48%">
-</div>
-
----
 
 ## 📊 Performance Metrics
 
@@ -92,7 +62,7 @@ Evaluated on a strictly balanced, isolated test set (80/20 split) to prevent dat
 ### 1. Backend Setup (Django API)
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/PhishDetect-Pro.git](https://github.com/yourusername/PhishDetect-Pro.git)
+git clone https://github.com/Sayeedh784/Phishing-Detection.git
 cd PhishDetect-Pro/backend
 
 # Create & activate a virtual environment
